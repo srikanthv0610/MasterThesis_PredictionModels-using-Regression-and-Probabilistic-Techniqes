@@ -1,4 +1,4 @@
-# MasterThesis_PredictionModels-using-Regression-and-Probabilistic-Techniqes
+# My Master Thesis: Prediction Models using Regression and Probabilistic Techniqes:
 The Master Thesis Report with complete details of the project is attached [here](https://github.com/srikanthv0610/MasterThesis_PredictionModels-using-Regression-and-Probabilistic-Techniqes/blob/main/Thesis_Report/Master%20Thesis%20Report.pdf).  
 
 ## Prediction Algorithms:
